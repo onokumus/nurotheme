@@ -1,10 +1,8 @@
-
-
-@import url(http://fonts.googleapis.com/css?family=Lato:300);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 /*
     Document   : style.less
     Created on : Jul 21, 2012, 3:19:12 AM
-    Updated on : Nov 04, 2012, 02:45:16 AM
+    Updated on : Nov 05, 2022, 01:58:16 AM
     Author     : ono
     Version    : 1.1
     Description: Nuro Theme.
@@ -52,12 +50,7 @@ a:focus {
   opacity: 0.75;
   filter: alpha(opacity=75);
 }
-[class^="icon-"]:not(.ui-icon),
-[class*="icon-"]:not(.ui-icon) {
-  background: none;
-  /* font-awesome icon hack */
 
-}
 /*
 ============================= Header ===============
 */
